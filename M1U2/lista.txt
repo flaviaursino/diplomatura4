@@ -3,3 +3,7 @@ galletitas
 gelatina
 pollo
 manzanas
+bananas
+peras
+palta
+naranjas
